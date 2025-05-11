@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sinjin</h1>
 <h3 align="center">A Video Game and Systems Developer from Los Angeles!</h3>
 
-- 🔭 I recently graduated from the [University of Utah ('Sko Utes)](https://www.utah.edu/)
+- 🔭 I recently graduated from the [University of Utah ('Sko Utes)](https://www.utah.edu/) with a Bachelor of Science in Computer Science with an emphasis in Entertainment Arts Engineering (What a mouthful) 
 
 - 🌱 I’m currently learning: **Rust, Cyber Security, Game Development, and Container Orchestration**
 
