@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning: **Rust, Cyber Security, Game Development, and Container Orchestration**
 
-- 👨‍💻 All of my projects are available on [my website](https://sinjin.dev)
+- 👨‍💻 All of my projects are available on [my website](https://sinjin.dev/en/projects/)
 
-- 📝 I (not so) regularly write articles on [my website](https://sinjin.dev)
+- 📝 I (not so) regularly write posts on [my blog](https://sinjin.dev/en/blog/)
 
 - 👁️‍🗨️ Ask me about: **Homelabs, What I'm reading, and Linux**
 
 - 📫 Email me at **root@sinjin.dev**
 
-- 📄 Sic your ATS on my resume on [my website](https://sinjin.dev)
+- 📄 Sic your ATS on my resume on [my website](https://sinjin.dev/resume.pdf)
 
 - ⚡ Fun fact: **My birthday and birth time are inverses of eachother**
 
