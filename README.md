@@ -3,7 +3,7 @@
 
 - 🔭 I recently graduated from the [University of Utah ('Sko Utes)](https://www.utah.edu/) with a Bachelor of Science in Computer Science with an emphasis in Entertainment Arts Engineering (What a mouthful) 
 
-- 🌱 I’m currently learning: **Rust, Cyber Security, Game Development, and Container Orchestration**
+- 🌱 I’m currently learning: **Rust, Cyber Security, Computer Networking, and Game Development**
 
 - 👨‍💻 All of my projects are available on [my website](https://sinjin.dev/en/projects/)
 
@@ -14,8 +14,6 @@
 - 📫 Email me at **root@sinjin.dev**
 
 - 📄 Sic your ATS on my resume on [my website](https://sinjin.dev/resume.pdf)
-
-- ⚡ Fun fact: **My birthday and birth time are inverses of eachother**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
